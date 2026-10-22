@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sonic — Green Hill Zone</title>
+    <style>
+      /* The starter's look until its scripts render; inert once #root has content. */
+      :root:has(#root:empty) {
+        --starter-background: oklch(0.975 0.0015 70);
+        --starter-dot: oklch(0.24 0.006 70 / 0.1);
+        color-scheme: light dark;
+        background:
+          radial-gradient(circle, var(--starter-dot) 1px, transparent 1.5px) 0 0 / 12px 12px,
+          var(--starter-background);
+        background-position: calc(mod(100vw, 12px) / 2 - 6px) calc(mod(100vh, 12px) / 2 - 6px);
+      }
+      @media (prefers-color-scheme: dark) {
+        :root:has(#root:empty) {
+          --starter-background: oklch(0.154 0.005 265);
+          --starter-dot: oklch(0.978 0 0 / 0.1);
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
