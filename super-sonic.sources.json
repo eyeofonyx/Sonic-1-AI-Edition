@@ -1,0 +1,46 @@
+{
+  "repository": "sonicretro/s2disasm",
+  "commit": "4ef457c18fc4902396c43ab06fabc119ac6ecb64",
+  "copyright": "Original Sonic 2 artwork © SEGA. Browser adaptation, not an emulator.",
+  "method": "Native mappings, column-major 4bpp DPLC art packed into one index texture. Original palette indices expanded only for the current small sprite, with bounded runtime caching. Underwater gold uses Sonic 2 ARZ transformation colors with the corresponding Sonic 1 underwater clothes/outline row. No terrain palette changes.",
+  "width": 512,
+  "height": 896,
+  "frames": 111,
+  "sources": [
+    {
+      "path": "art/uncompressed/Sonic's art.bin",
+      "url": "https://raw.githubusercontent.com/sonicretro/s2disasm/4ef457c18fc4902396c43ab06fabc119ac6ecb64/art/uncompressed/Sonic's art.bin",
+      "sha256": "75ee80865f4d01f8695ceecabea4e99282cab09ed883d72981ce06e64647c502"
+    },
+    {
+      "path": "mappings/sprite/Sonic.asm",
+      "url": "https://raw.githubusercontent.com/sonicretro/s2disasm/4ef457c18fc4902396c43ab06fabc119ac6ecb64/mappings/sprite/Sonic.asm",
+      "sha256": "9fbc946d7302c0924aba88c3c60b0276f5555aea76f14d0a3871804a1e27421a"
+    },
+    {
+      "path": "mappings/spriteDPLC/Sonic.asm",
+      "url": "https://raw.githubusercontent.com/sonicretro/s2disasm/4ef457c18fc4902396c43ab06fabc119ac6ecb64/mappings/spriteDPLC/Sonic.asm",
+      "sha256": "866b2e41c4ac26a4e24eac9adfe9e92a6c0370e98b45d6465cca942a812a1bf3"
+    },
+    {
+      "path": "art/palettes/SonicAndTails.bin",
+      "url": "https://raw.githubusercontent.com/sonicretro/s2disasm/4ef457c18fc4902396c43ab06fabc119ac6ecb64/art/palettes/SonicAndTails.bin",
+      "sha256": "cbe93ee1655a286dc4ce18a0ec7e417e042dd9431af685795e2ccf4eba32ec62"
+    },
+    {
+      "path": "art/palettes/Super Sonic transformation.bin",
+      "url": "https://raw.githubusercontent.com/sonicretro/s2disasm/4ef457c18fc4902396c43ab06fabc119ac6ecb64/art/palettes/Super Sonic transformation.bin",
+      "sha256": "56bdbd6517d193b87001bd9da7b932306e7a1f4437044de066ff6d654c5509df"
+    },
+    {
+      "path": "art/palettes/ARZWater SS transformation.bin",
+      "url": "https://raw.githubusercontent.com/sonicretro/s2disasm/4ef457c18fc4902396c43ab06fabc119ac6ecb64/art/palettes/ARZWater SS transformation.bin",
+      "sha256": "4fbf724a246b0bc5394cfd340621e6ff0a388d670f42676a55dec8e28fc1d4aa"
+    },
+    {
+      "path": "s2.asm",
+      "url": "https://raw.githubusercontent.com/sonicretro/s2disasm/4ef457c18fc4902396c43ab06fabc119ac6ecb64/s2.asm",
+      "sha256": "2a7d0c721d3a4e6475509a7bd11808f735ec65f011f1b8dd3798f229b46dec43"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "repository": "gvbvdxx/gvbsonic",
+  "commit": "f1df1f4cfa2ac12b1afec6ba5194f56f50a5a777",
+  "ownership": "Native Sonic recordings © SEGA.",
+  "sources": [
+    {
+      "path": "gvbsonic/res/sfx/Flying.wav",
+      "output": "effects/flight.wav",
+      "bytes": 17188,
+      "sha256": "94147283c928fcab12193c78dc4b6c05badbd01e77f482c8ab960d4d1f1157ae"
+    },
+    {
+      "path": "gvbsonic/res/sfx/Tired.wav",
+      "output": "effects/flight-tired.wav",
+      "bytes": 25466,
+      "sha256": "c9305eacad8bbfd69fade7c013d1fed4ebf47726d37c6d7d10c7a52a9fc7a0e3"
+    },
+    {
+      "path": "gvbsonic/res/sfx/Grab.wav",
+      "output": "effects/grab.wav",
+      "bytes": 8838,
+      "sha256": "a4f1a88f3d6051975d0ee996aad03dc473da084c40c51a865f09ae4a571086ca"
+    }
+  ]
+}

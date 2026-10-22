@@ -1,0 +1,200 @@
+{
+  "game": "Sonic the Hedgehog CD (1993)",
+  "copyright": "Original artwork © SEGA. Browser adaptation; not an emulator.",
+  "repository": "sonicretro/scddisasm",
+  "commit": "f8cf3f0af7bf419d18182ba98554f09307ad3cc6",
+  "sources": [
+    {
+      "path": "src/Level/_Objects/Sonic/Data/Art.bin",
+      "source": "https://raw.githubusercontent.com/sonicretro/scddisasm/f8cf3f0af7bf419d18182ba98554f09307ad3cc6/src/Level/_Objects/Sonic/Data/Art.bin",
+      "sha256": "5160ff8ea26ed050cd3f41aaf1689d4e05a58cf15f090c0ca910932e7f629955"
+    },
+    {
+      "path": "src/Level/_Objects/Sonic/Data/Palette.bin",
+      "source": "https://raw.githubusercontent.com/sonicretro/scddisasm/f8cf3f0af7bf419d18182ba98554f09307ad3cc6/src/Level/_Objects/Sonic/Data/Palette.bin",
+      "sha256": "8391d8af82c19043c89e32abf87bdd057dbe2a845c58a3a58761edceaeeb9f8a"
+    },
+    {
+      "path": "src/Level/_Objects/Sonic/Data/Mappings.asm",
+      "source": "https://raw.githubusercontent.com/sonicretro/scddisasm/f8cf3f0af7bf419d18182ba98554f09307ad3cc6/src/Level/_Objects/Sonic/Data/Mappings.asm",
+      "sha256": "604a1a7c475579abea7e4b856b2c61d02ae1ff9d2897bc8d93180734cb79ecdb"
+    },
+    {
+      "path": "src/Level/_Objects/Sonic/Data/DPLCs.asm",
+      "source": "https://raw.githubusercontent.com/sonicretro/scddisasm/f8cf3f0af7bf419d18182ba98554f09307ad3cc6/src/Level/_Objects/Sonic/Data/DPLCs.asm",
+      "sha256": "4b8cb37eb0666f1102762b2682a6d80acfd9cdc7488982e14cfa600df10189cc"
+    },
+    {
+      "path": "src/Level/_Objects/Sonic/Data/Animations.asm",
+      "source": "https://raw.githubusercontent.com/sonicretro/scddisasm/f8cf3f0af7bf419d18182ba98554f09307ad3cc6/src/Level/_Objects/Sonic/Data/Animations.asm",
+      "sha256": "99ad45b5d53e8b78343ff2ffc060902d027c7b4a149ffe9a732af66953d439b7"
+    },
+    {
+      "path": "src/Level/_Objects/Sonic/Main.asm",
+      "source": "https://raw.githubusercontent.com/sonicretro/scddisasm/f8cf3f0af7bf419d18182ba98554f09307ad3cc6/src/Level/_Objects/Sonic/Main.asm",
+      "sha256": "febc4ac5e53646f6fee8b031526823ae2c23da381c9c03d7867f3bca7ba12ac5"
+    }
+  ],
+  "frames": [
+    {
+      "name": "sonic/Peel11",
+      "sourceFrame": "0x94",
+      "bounds": [
+        -20,
+        -16,
+        20,
+        16
+      ]
+    },
+    {
+      "name": "sonic/Peel12",
+      "sourceFrame": "0x95",
+      "bounds": [
+        -20,
+        -16,
+        20,
+        16
+      ]
+    },
+    {
+      "name": "sonic/Peel13",
+      "sourceFrame": "0x96",
+      "bounds": [
+        -20,
+        -16,
+        20,
+        16
+      ]
+    },
+    {
+      "name": "sonic/Peel14",
+      "sourceFrame": "0x97",
+      "bounds": [
+        -20,
+        -16,
+        20,
+        16
+      ]
+    },
+    {
+      "name": "sonic/Peel21",
+      "sourceFrame": "0x98",
+      "bounds": [
+        -20,
+        -24,
+        20,
+        24
+      ]
+    },
+    {
+      "name": "sonic/Peel22",
+      "sourceFrame": "0x99",
+      "bounds": [
+        -20,
+        -20,
+        20,
+        20
+      ]
+    },
+    {
+      "name": "sonic/Peel23",
+      "sourceFrame": "0x9a",
+      "bounds": [
+        -20,
+        -24,
+        20,
+        24
+      ]
+    },
+    {
+      "name": "sonic/Peel24",
+      "sourceFrame": "0x9b",
+      "bounds": [
+        -20,
+        -20,
+        20,
+        20
+      ]
+    },
+    {
+      "name": "sonic/Peel31",
+      "sourceFrame": "0x9c",
+      "bounds": [
+        -16,
+        -20,
+        16,
+        20
+      ]
+    },
+    {
+      "name": "sonic/Peel32",
+      "sourceFrame": "0x9d",
+      "bounds": [
+        -16,
+        -20,
+        16,
+        20
+      ]
+    },
+    {
+      "name": "sonic/Peel33",
+      "sourceFrame": "0x9e",
+      "bounds": [
+        -16,
+        -20,
+        16,
+        20
+      ]
+    },
+    {
+      "name": "sonic/Peel34",
+      "sourceFrame": "0x9f",
+      "bounds": [
+        -16,
+        -20,
+        16,
+        20
+      ]
+    },
+    {
+      "name": "sonic/Peel41",
+      "sourceFrame": "0xa0",
+      "bounds": [
+        -24,
+        -20,
+        24,
+        20
+      ]
+    },
+    {
+      "name": "sonic/Peel42",
+      "sourceFrame": "0xa1",
+      "bounds": [
+        -20,
+        -20,
+        20,
+        20
+      ]
+    },
+    {
+      "name": "sonic/Peel43",
+      "sourceFrame": "0xa2",
+      "bounds": [
+        -24,
+        -20,
+        24,
+        20
+      ]
+    },
+    {
+      "name": "sonic/Peel44",
+      "sourceFrame": "0xa3",
+      "bounds": [
+        -20,
+        -20,
+        20,
+        20
+      ]
+    }
+  ]
+}

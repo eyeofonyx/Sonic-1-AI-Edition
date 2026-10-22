@@ -1,0 +1,52 @@
+{
+  "repository": "sonicretro/s1disasm",
+  "commit": "c81dc64e5c14d45504321c9fa516b74ab9501296",
+  "copyright": "Original Sonic artwork and palettes © SEGA. Browser adaptation.",
+  "method": "Exactly four CRAM lines: dry zone files have 48 colors and need Sonic prepended; underwater zone files already have all 64 colors and must not be shifted. Source sprite-piece CRAM indices, not RGB replacement. Native transparent texels retained. Original source manifests accompany the parent atlases.",
+  "sources": [
+    {
+      "path": ".maypop/local/extract-classics.mjs",
+      "sha256": "e1ed6f293c5c1dcc6500ae69c14580ca5fee0dbb1557003f1b800cf5e7c628ec"
+    },
+    {
+      "path": ".maypop/local/extract-expansion.mjs",
+      "sha256": "5a4f370e18bf6b3c22bdf96e86fceeb29c28e89461196926d22a3154849cfd41"
+    },
+    {
+      "path": ".maypop/local/expansion-source/palette/Sonic.bin",
+      "sha256": "8391d8af82c19043c89e32abf87bdd057dbe2a845c58a3a58761edceaeeb9f8a"
+    },
+    {
+      "path": ".maypop/local/expansion-source/palette/Sonic - LZ Underwater.bin",
+      "sha256": "4b36b60bad7def59a5df7810ab10f5db5c58c0aad1ef81c9ad2ee0e450924c91"
+    },
+    {
+      "path": ".maypop/local/expansion-source/palette/Labyrinth Zone.bin",
+      "sha256": "a35089366aa62149927f5b52c7c1c2a42e05f01d92f5b1bbc9386b84a0829cf3"
+    },
+    {
+      "path": ".maypop/local/expansion-source/palette/Labyrinth Zone Underwater.bin",
+      "sha256": "4e90fa50d2cac1d6b038902cf3abe2d6e68efd29d5d7f1691beeedee946639ca"
+    },
+    {
+      "path": ".maypop/local/expansion-source/palette/Cycle - LZ Waterfall.bin",
+      "sha256": "16681498aef562453baf3a432134a1204aa2c1dbc00c956d94901d1baab7027e"
+    },
+    {
+      "path": ".maypop/local/finale-source/palette/Sonic.bin",
+      "sha256": "8391d8af82c19043c89e32abf87bdd057dbe2a845c58a3a58761edceaeeb9f8a"
+    },
+    {
+      "path": ".maypop/local/finale-source/palette/Sonic - SBZ3 Underwater.bin",
+      "sha256": "f0df030946176fdfdb110f6275e4403c324dd52ca7d998365b260c209f608b0e"
+    },
+    {
+      "path": ".maypop/local/finale-source/palette/SBZ Act 3.bin",
+      "sha256": "5a2705715b61fc02ebf926641c027de5f24cc5d12eddd3ab35ec342c0e281651"
+    },
+    {
+      "path": ".maypop/local/finale-source/palette/SBZ Act 3 Underwater.bin",
+      "sha256": "bd26e559e0b69890fdd3218297665c75597988340bcf45b06f3d5ff31f7cec5c"
+    }
+  ]
+}

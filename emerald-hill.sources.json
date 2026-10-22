@@ -1,0 +1,33 @@
+{
+  "copyright": "Original Sonic 2 music © SEGA; composed by Masato Nakamura.",
+  "vgmSource": "https://www.vgmpf.com/Wiki/images/d/dd/Sonic_the_Hedgehog_2_(GEN).zip",
+  "tracks": [
+    {
+      "track": "emerald",
+      "url": "https://www.vgmpf.com/Wiki/images/5/5d/03_-_Sonic_the_Hedgehog_2_-_GEN_-_Emerald_Hill_Zone.ogg",
+      "sha256": "a25d549e320060480d8d47b32513913183506716a2ce852930f20e31d910d8f9",
+      "intro": 3.470045351473921,
+      "total": 44.937278911564626,
+      "loop": 41.467233560090705,
+      "vgmSha256": "b1a8cd3589bcf3b510668b59fa4e0d5fe1e387af457d8293a1365bfbf33dcf92"
+    },
+    {
+      "track": "s2boss",
+      "url": "https://www.vgmpf.com/Wiki/images/1/13/16_-_Sonic_the_Hedgehog_2_-_GEN_-_Dr._Robotnik's_Theme.ogg",
+      "sha256": "1477cbb9ee05bdad143734db392a252f6b39829f043b1e09ac2e681b13bd03b3",
+      "intro": 0.21136054421768335,
+      "total": 36.29469387755102,
+      "loop": 36.083333333333336,
+      "vgmSha256": "ceef17d0de1b8de512d4c672e6a6c8fad1abee46518cd0b88d2626d31e6e1f5d"
+    },
+    {
+      "track": "s2clear",
+      "url": "https://www.vgmpf.com/Wiki/images/3/38/14_-_Sonic_the_Hedgehog_2_-_GEN_-_Act_Clear.ogg",
+      "sha256": "cbb139d298fccb4e68a093aea3ef4b4b43ad70877f6668627e74eb6906395088",
+      "intro": 6.011882086167801,
+      "total": 6.011882086167801,
+      "loop": 0,
+      "vgmSha256": "201cb50147d09c542e0ed40a1099dc5b2266377955987a9b0157d6de49c96f87"
+    }
+  ]
+}

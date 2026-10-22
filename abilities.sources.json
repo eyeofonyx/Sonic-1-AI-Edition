@@ -1,0 +1,23 @@
+{
+  "copyright": "Original Sonic game artwork, music and sounds © SEGA. Browser adaptations.",
+  "superMusic": {
+    "source": "https://www.vgmpf.com/Wiki/images/2/2b/19_-_Sonic_the_Hedgehog_2_-_GEN_-_Super_Sonic.ogg",
+    "sha256": "b4a684ce7a4f30cb47bc1f3761b10a026eb80dabbf6b63db980ede70759dcc8b",
+    "vgmSource": "https://www.vgmpf.com/Wiki/images/d/dd/Sonic_the_Hedgehog_2_(GEN).zip",
+    "vgmSha256": "5bb7550dce1c8bf1fcdfde9471b4eee75800780db6e015012c30dc5a5cc85fbc",
+    "loop": [
+      3.455804988662132,
+      23.1224716553288
+    ]
+  },
+  "dropSound": {
+    "source": "https://raw.githubusercontent.com/gvbvdxx/gvbsonic/f1df1f4cfa2ac12b1afec6ba5194f56f50a5a777/gvbsonic/res/sfx/DropDash.wav",
+    "sha256": "e007a10ad76c995a154126121726580539433d3edd17f8b7bd8f7c6bc39e696f"
+  },
+  "rules": {
+    "maniaCommit": "9dc699428420d752af9767bdb13f585ee0881bc0",
+    "maniaPath": "SonicMania/Objects/Global/Player.c",
+    "sha256": "e2640b71fe86d3ed0d5f364393cff0594546f80649ebf499b8e3956ba5911552",
+    "adaptation": "Second jump press and 20 held frames; native directional landing boost/cap. Water halves launch. Six earned Sonic 1 emeralds or session-only 4-1-2-6 unlock, 50 rings, separate X/touch transform control. Transformation uses the existing classic warp cue; Drop Dash release reuses the existing release samples."
+  }
+}

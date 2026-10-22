@@ -1,0 +1,72 @@
+{
+  "copyright": "Original Sonic the Hedgehog and Sonic the Hedgehog 2 artwork © SEGA.",
+  "adaptation": "Original S1 title background/palette/water cycle and S2 animated menu background/font. Menu entries and controls are adapted for this twelve-act browser recreation.",
+  "sources": [
+    {
+      "repository": "sonicretro/s1disasm",
+      "commit": "a30c85abe29ad8f238630e0ed507e587ffea0e97",
+      "path": "palette/Title Screen.bin",
+      "sha256": "65c0b92651204534c77b8709197ad1b1c67bb9aad8776029846ba01ab1388759"
+    },
+    {
+      "repository": "sonicretro/s1disasm",
+      "commit": "a30c85abe29ad8f238630e0ed507e587ffea0e97",
+      "path": "palette/Cycle - Title Screen Water.bin",
+      "sha256": "7a5248a7cc786494d214f46530f21c9de0563985d55e7997a6f022d39600b60e"
+    },
+    {
+      "repository": "sonicretro/s1disasm",
+      "commit": "a30c85abe29ad8f238630e0ed507e587ffea0e97",
+      "path": "artnem/8x8 - GHZ1.nem",
+      "sha256": "f8f97f9fa42e015473c170c21b4c370dd92aab2fa515f7696000cf40c1f3bcc9"
+    },
+    {
+      "repository": "sonicretro/s1disasm",
+      "commit": "a30c85abe29ad8f238630e0ed507e587ffea0e97",
+      "path": "artnem/8x8 - GHZ2.nem",
+      "sha256": "d0f66213deaa9bf7de063dc0bb3fd7399f9405e5d5302c959d590921c528458c"
+    },
+    {
+      "repository": "sonicretro/s1disasm",
+      "commit": "a30c85abe29ad8f238630e0ed507e587ffea0e97",
+      "path": "map16/GHZ.eni",
+      "sha256": "568f70ef8f0e17f20937cd10968d238a90fda7d19b5e6cb18e8550a16aa095f5"
+    },
+    {
+      "repository": "sonicretro/s1disasm",
+      "commit": "a30c85abe29ad8f238630e0ed507e587ffea0e97",
+      "path": "map256/GHZ.kos",
+      "sha256": "0f5326d50dfb0e98f6a49ebfb24cde45155a87278f71c4b44a8f629ec0f2753c"
+    },
+    {
+      "repository": "sonicretro/s1disasm",
+      "commit": "a30c85abe29ad8f238630e0ed507e587ffea0e97",
+      "path": "levels/ghzbg.bin",
+      "sha256": "04d491bd812891cf881d414da2d7c771a28b4106a9f2c7c2fa955d3665284560"
+    },
+    {
+      "repository": "sonicretro/s2disasm",
+      "commit": "15e9fd52a65318bec3d5e746ce48dba6db6910db",
+      "path": "art/nemesis/Standard font.nem",
+      "sha256": "e22ec507fc11cdee7261b74e842dbfea62fe590d91c17521bf1fd8aee55e49e4"
+    },
+    {
+      "repository": "sonicretro/s2disasm",
+      "commit": "15e9fd52a65318bec3d5e746ce48dba6db6910db",
+      "path": "art/uncompressed/Sonic and Miles animated background.bin",
+      "sha256": "08ecca00b2d3bec16845d8460bf5a6149b5cc260a5ec10e8e49084fb02aa35e5"
+    },
+    {
+      "repository": "sonicretro/s2disasm",
+      "commit": "15e9fd52a65318bec3d5e746ce48dba6db6910db",
+      "path": "mappings/misc/Sonic and Miles animated background.eni",
+      "sha256": "2f011956c0d1a28726b13b825af6777d1aa387b630489da99acfafef61eac481"
+    },
+    {
+      "repository": "sonicretro/s2disasm",
+      "commit": "15e9fd52a65318bec3d5e746ce48dba6db6910db",
+      "path": "art/palettes/Menu.bin",
+      "sha256": "6c368a0a76f400d5d83bdffcaf8aa30ca279ddb156aa9bd6f70f7080fea83e7e"
+    }
+  ]
+}

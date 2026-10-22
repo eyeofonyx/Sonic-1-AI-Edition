@@ -1,0 +1,52 @@
+{
+  "copyright": "Original Sonic the Hedgehog music © SEGA. Composed by Masato Nakamura.",
+  "sources": [
+    {
+      "track": "starlight",
+      "url": "https://www.vgmpf.com/Wiki/images/5/59/06_-_Sonic_the_Hedgehog_-_GEN_-_Star_Light_Zone.ogg",
+      "sha256": "8e98a2581223dc253f3ba974abc45bd5c48d9c345c34dbb43e58174ac62e1da7"
+    },
+    {
+      "track": "scrap",
+      "url": "https://www.vgmpf.com/Wiki/images/a/a4/07_-_Sonic_the_Hedgehog_-_GEN_-_Scrap_Brain_Zone.ogg",
+      "sha256": "1ff2d0876700b10d52de5fbbf4c2482157a2b7c5d2fada07ac5595319113032d"
+    },
+    {
+      "track": "final",
+      "url": "https://www.vgmpf.com/Wiki/images/c/c6/14_-_Sonic_the_Hedgehog_-_GEN_-_Final_Zone.ogg",
+      "sha256": "09e243d0c16a31e4b51a2e987fe6467e9cc4826de02740ba505ad4a8af125bab"
+    },
+    {
+      "track": "ending",
+      "url": "https://www.vgmpf.com/Wiki/images/f/f8/18_-_Sonic_the_Hedgehog_-_GEN_-_Ending_Theme.ogg",
+      "sha256": "d9575c7026a2f37bb07788b2bbc95d216bf54e4d173c344e502348a7c8d50441"
+    },
+    {
+      "track": "credits",
+      "url": "https://www.vgmpf.com/Wiki/images/3/31/19_-_Sonic_the_Hedgehog_-_GEN_-_Staff_Roll.ogg",
+      "sha256": "df3b37bfb1cd74bac0232ea1a66bd70f0f0b91cae3c1849610f38c2193c6515e"
+    }
+  ],
+  "timings": {
+    "06 - Star Light Zone.vgz": {
+      "total": 45.60002267573696,
+      "loop": 42.233333333333334,
+      "intro": 3.3666893424036246
+    },
+    "07 - Scrap Brain Zone.vgz": {
+      "total": 72.61487528344671,
+      "loop": 72.0001133786848,
+      "intro": 0.614761904761906
+    },
+    "14 - Final Zone.vgz": {
+      "total": 21.59829931972789,
+      "loop": 19.200544217687074,
+      "intro": 2.397755102040815
+    },
+    "18 - Ending Theme.vgz": {
+      "total": 18.011609977324262,
+      "loop": 0,
+      "intro": 18.011609977324262
+    }
+  }
+}
