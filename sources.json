@@ -1,0 +1,172 @@
+[
+  {
+    "name": "jump",
+    "source": "https://raw.githubusercontent.com/gvbvdxx/gvbsonic/main/gvbsonic/res/sfx/old/jump.wav",
+    "sha256": "6853a8ff2d11290eb55af837f15740295fbdb4081f2354369e4e309cb3d6e821"
+  },
+  {
+    "name": "ring",
+    "source": "https://raw.githubusercontent.com/gvbvdxx/gvbsonic/main/gvbsonic/res/sfx/RingO.wav",
+    "sha256": "790cf044142d677bd0e46814d736682522444a1650d66688a4fbb9e634a7214f"
+  },
+  {
+    "name": "ring-loss",
+    "source": "https://raw.githubusercontent.com/gvbvdxx/gvbsonic/main/gvbsonic/res/sfx/LoseRings.wav",
+    "sha256": "213bd2f3c2cd2c57c833a8093059554e37c6b70a2fc93d2da21fb18c22a9d12b"
+  },
+  {
+    "name": "spring",
+    "source": "https://raw.githubusercontent.com/gvbvdxx/gvbsonic/main/gvbsonic/res/sfx/old/spring.wav",
+    "sha256": "32690d4d597603bb3d76c8075cc79eaf67270ed14093dd381b5b6a4a2dc32315"
+  },
+  {
+    "name": "skid",
+    "source": "https://raw.githubusercontent.com/gvbvdxx/gvbsonic/main/gvbsonic/res/sfx/Skidding.wav",
+    "sha256": "a8dae5371df5d183c9a79d4b21ed2c6b1cf9d13d5f0d571bd0d65f38ec7adf3a"
+  },
+  {
+    "name": "shield",
+    "source": "https://raw.githubusercontent.com/gvbvdxx/gvbsonic/main/gvbsonic/res/sfx/BlueShield.wav",
+    "sha256": "4574db6ebab9ee155e6f9483297d3f08caf92d308def2a121ee4f3a2cd14f70c"
+  },
+  {
+    "name": "death",
+    "source": "https://raw.githubusercontent.com/gvbvdxx/gvbsonic/main/gvbsonic/res/sfx/old/death.wav",
+    "sha256": "1def10bfbefb5cf41942ce342b0619ca5a35564d601826f1b85714f203d9c6e1"
+  },
+  {
+    "name": "destroy",
+    "source": "https://raw.githubusercontent.com/gvbvdxx/gvbsonic/main/gvbsonic/res/sfx/Destroy.wav",
+    "sha256": "c0fda12bcd012fb6a101d2e9bf561a96db08eb479177dc0aabb5c79412b0293c"
+  },
+  {
+    "name": "explosion",
+    "source": "https://raw.githubusercontent.com/gvbvdxx/gvbsonic/main/gvbsonic/res/sfx/old/ExplosionOld.wav",
+    "sha256": "995b30c64ab2428cd838611ff4312a57f3e728ba128ce6f8cec72b562099f29e"
+  },
+  {
+    "name": "checkpoint",
+    "source": "https://raw.githubusercontent.com/gvbvdxx/gvbsonic/main/gvbsonic/res/sfx/StarPost.wav",
+    "sha256": "11f5f51abcbfe22b916510321acc5d6bd1c93c0f40a917459289e5ba12b07916"
+  },
+  {
+    "name": "break",
+    "source": "https://raw.githubusercontent.com/gvbvdxx/gvbsonic/main/gvbsonic/res/sfx/old/ExplosionOld.wav",
+    "sha256": "995b30c64ab2428cd838611ff4312a57f3e728ba128ce6f8cec72b562099f29e"
+  },
+  {
+    "name": "signpost",
+    "source": "https://raw.githubusercontent.com/gvbvdxx/gvbsonic/main/gvbsonic/res/sfx/SignPost.wav",
+    "sha256": "cc28c41b951c61efaeae5c2f32de9b9932324aba3c73f06575da6ddf1f9826f8"
+  },
+  {
+    "name": "score-total",
+    "source": "https://raw.githubusercontent.com/gvbvdxx/gvbsonic/main/gvbsonic/res/sfx/ScoreTotal.wav",
+    "sha256": "c8d58fd13196fe3b5693fb7fd2f29facdcb131b47d08528ed77c6c675eda45cc"
+  },
+  {
+    "name": "score-tick",
+    "source": "https://raw.githubusercontent.com/gvbvdxx/gvbsonic/main/gvbsonic/res/sfx/ScoreAdd.wav",
+    "sha256": "a58f21fdf4a266e0a55c512b95900a4d850f245e7788ba7b1f440b2de3755010"
+  },
+  {
+    "name": "special-enter",
+    "source": "https://raw.githubusercontent.com/gvbvdxx/gvbsonic/main/gvbsonic/res/sfx/SpecialWarp.wav",
+    "sha256": "dfe93a4bd7f1e9b99e0870a56c1eceed70d62f429a1b64bcfbfae05b5e5ca49f"
+  },
+  {
+    "name": "title",
+    "source": "https://www.vgmpf.com/Wiki/images/4/41/01_-_Sonic_the_Hedgehog_-_GEN_-_Title_Theme.ogg",
+    "sha256": "0ef6b08b9232372d05e5fa18f64f24ea417e99c0485fc1ea9c1642bb7fbd36c2"
+  },
+  {
+    "name": "invincible",
+    "source": "https://www.vgmpf.com/Wiki/images/b/bf/09_-_Sonic_the_Hedgehog_-_GEN_-_Invincibility.ogg",
+    "sha256": "6c917ce91718e968d47e0df1c46ebb0152730db51bdfed5d08e1ecfdcea38e44"
+  },
+  {
+    "name": "life",
+    "source": "https://www.vgmpf.com/Wiki/images/6/6d/10_-_Sonic_the_Hedgehog_-_GEN_-_Extra_Life.ogg",
+    "sha256": "22211793e9189c435ab2fb7b404a0a3a7198a3c93b6aedbb7033d783844468c6"
+  },
+  {
+    "name": "over",
+    "source": "https://www.vgmpf.com/Wiki/images/5/5a/12_-_Sonic_the_Hedgehog_-_GEN_-_Game_Over.ogg",
+    "sha256": "fc11117f9fb5a04e984cb5f5885a4d5e7d100d20a11a51d0981be9390d83742a"
+  },
+  {
+    "name": "emerald",
+    "source": "https://www.vgmpf.com/Wiki/images/7/76/17_-_Sonic_the_Hedgehog_-_GEN_-_Chaos_Emerald.ogg",
+    "sha256": "e7eac7d9ef843d321f98de347f09791f60d6cd1e323ea1b1d277f6579206bbce"
+  },
+  {
+    "name": "boss-hit",
+    "source": "https://raw.githubusercontent.com/Techokami/SonicWorldsNext/main/Audio/SFX/Boss/Hit.wav",
+    "sha256": "849d82d4c9a2fe4b7d26f1a7468050b845784005a4317019eaacb1496f77d5a2"
+  },
+  {
+    "name": "hurt",
+    "source": "https://raw.githubusercontent.com/Techokami/SonicWorldsNext/main/Audio/SFX/Player/Spike.wav",
+    "sha256": "161b2104f8cb0d3fefb7a5ac40cd34eddc34ad6269384c64c15dec8419ac282a"
+  },
+  {
+    "name": "dash-charge",
+    "source": "https://raw.githubusercontent.com/Techokami/SonicWorldsNext/main/Audio/SFX/Player/SpindashRev.wav",
+    "sha256": "83196583b56c75e6fa3cd8b1f0f135b0a07c90447f91a2d273c00360c7565979"
+  },
+  {
+    "name": "dash-release",
+    "source": "https://raw.githubusercontent.com/Techokami/SonicWorldsNext/main/Audio/SFX/Player/SpindashRelease.wav",
+    "sha256": "e9ed89e17efcd76db9cafc69ffdd9a462a895df8a07a5d54da118e813bb10ec8"
+  },
+  {
+    "name": "roll",
+    "source": "https://raw.githubusercontent.com/Techokami/SonicWorldsNext/main/Audio/SFX/Player/Roll.wav",
+    "sha256": "bff0675481b8b5363a7f4dd8908e4e2c3108b6d6509e77fb7bcf30ce9c858253"
+  },
+  {
+    "name": "collapse",
+    "source": "https://raw.githubusercontent.com/Techokami/SonicWorldsNext/main/Audio/SFX/Gimmicks/Collapse.wav",
+    "sha256": "4a4e5b31f1a4879fa9baba6b5d8c20c04ce14de24d3768612b6ae94192d80313"
+  },
+  {
+    "name": "switch",
+    "source": "https://raw.githubusercontent.com/Techokami/SonicWorldsNext/main/Audio/SFX/Gimmicks/Switch.wav",
+    "sha256": "cbcc1d64899d601987862e658b42ccd2596575e91301a58f75c6fbf420d3fabb"
+  },
+  {
+    "name": "bump",
+    "source": "https://raw.githubusercontent.com/Techokami/SonicWorldsNext/main/Audio/SFX/Objects/Bumper.wav",
+    "sha256": "5af52fec3242d9a7722cf91b5ab5a9e4e263df89bd051fa5d1f5bd6ec97e2336"
+  },
+  {
+    "name": "splash",
+    "source": "https://raw.githubusercontent.com/Techokami/SonicWorldsNext/main/Audio/SFX/Gimmicks/Splash.wav",
+    "sha256": "abf233066bf1bce664dbef62994e46314b95700da42abdb222ebdad645b01da5"
+  },
+  {
+    "name": "bubble",
+    "source": "https://raw.githubusercontent.com/Techokami/SonicWorldsNext/main/Audio/SFX/Player/GetAir.wav",
+    "sha256": "5b97f22c86defc57c5311895d72797c570548842f3b78c6dcf1a955564d2425b"
+  },
+  {
+    "name": "air-warning",
+    "source": "https://raw.githubusercontent.com/Techokami/SonicWorldsNext/main/Audio/SFX/Player/AirNotice.wav",
+    "sha256": "06753204f3c27157bf0836977ee6a32145a4f21b6ea7c2f2ebb763380775b629"
+  },
+  {
+    "name": "drown",
+    "source": "https://raw.githubusercontent.com/Techokami/SonicWorldsNext/main/Audio/SFX/Player/Drown.wav",
+    "sha256": "770cab2cfdcbcff570d2426cc42bdc07b38cdc23cdb088c020559bb7af74195b"
+  },
+  {
+    "name": "peel-charge",
+    "source": "https://raw.githubusercontent.com/gvbvdxx/gvbsonic/main/gvbsonic/res/sfx/PeelCharge.wav",
+    "sha256": "4904a1d1e1437fee9b875f8163aaaaea9ee073dfb2caba009f351d3bdce08f7a"
+  },
+  {
+    "name": "peel-release",
+    "source": "https://raw.githubusercontent.com/gvbvdxx/gvbsonic/main/gvbsonic/res/sfx/PeelRelease.wav",
+    "sha256": "7acb9bf335478dce9a69aacc94d6fe291793b92bddf86edbcd3b31fde37a834a"
+  }
+]
